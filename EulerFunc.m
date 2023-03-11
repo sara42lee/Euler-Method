@@ -1,3 +1,7 @@
+%**
+% *
+% * @author Sara Chahardoli
+% *
 function [X,Y]= EulerFunc(f,a,b,ya,n) % which f is a function handle
 h = (b-a)/n ; % steps
 X = a:h:b ;
