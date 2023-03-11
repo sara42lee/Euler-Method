@@ -1,3 +1,7 @@
+%**
+% *
+% * @author Sara Chahardoli
+% *
 % initializing
 n = 100 ;
 a = 0 ;
